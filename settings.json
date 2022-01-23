@@ -1,0 +1,9 @@
+{
+"Settings":{
+	"Temperature":"20",
+	"pre_amp":"30",
+	"em_gain":"40",
+	"exposure_time":"50"
+
+     }
+}
